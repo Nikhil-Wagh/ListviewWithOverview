@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422863271560",
+    "firebase_url": "https://listview-with-an-overview.firebaseio.com",
+    "project_id": "listview-with-an-overview",
+    "storage_bucket": "listview-with-an-overview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422863271560:android:54c1018cd51c547df1913d",
+        "android_client_info": {
+          "package_name": "com.example.ListWithOverview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422863271560-nb4iplq6hgsat5pv1d2rhdq0n0d86dgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ListWithOverview",
+            "certificate_hash": "062315b55d2de8df73525f9bcbcd1567add1cab4"
+          }
+        },
+        {
+          "client_id": "422863271560-an0rqtcg5mo99uppcdicoah0h996bk11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJeJ_QN2MewaPAoO74IuPS1luXorDyN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422863271560-an0rqtcg5mo99uppcdicoah0h996bk11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
